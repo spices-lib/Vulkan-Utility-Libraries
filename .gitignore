@@ -24,3 +24,14 @@ buildtools/
 depot_tools/
 testing/
 tools/
+
+bin
+bin-int
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+Makefile
+*.Android.mk
+
+*.xcodeproj
