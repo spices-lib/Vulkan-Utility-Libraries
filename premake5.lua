@@ -1,7 +1,5 @@
 solution.DefineCppStaticLibrary("Vulkan-Utility-Libraries", function()
 
-    systemversion "latest"
-
 	files
 	{
         "src/layer/*.cpp",
